@@ -1,0 +1,11 @@
+# Core packages used by the project notebook
+transformers>=4.51.0
+datasets
+accelerate
+huggingface_hub
+safetensors
+sentencepiece
+tqdm
+matplotlib
+numpy
+torch

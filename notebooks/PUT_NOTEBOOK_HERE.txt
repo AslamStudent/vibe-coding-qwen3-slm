@@ -1,0 +1,1 @@
+Copy Vibe_Coding_Qwen3_SLM_Final.ipynb into this folder. Do not upload a notebook with private tokens or credentials.

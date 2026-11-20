@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+token.txt
+hf_token*
+
+# Training checkpoints and model weights
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.gguf
+
+# Dataset caches and generated data
+data/raw/
+data/processed/
+.cache/
+.cache_huggingface/
+huggingface/
+datasets/
+
+# Runtime / OS
+.DS_Store
+Thumbs.db
+*.log
