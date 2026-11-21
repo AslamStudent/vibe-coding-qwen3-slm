@@ -1,0 +1,72 @@
+[
+  {
+    "instruction": "Create a coding assistant. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Use Electron, Monaco Editor, local LLM integration, chat memory, and project indexing. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Deploy an AI application. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Containerize services, configure GPUs if needed, add logging, metrics, and autoscaling. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "React app re-renders infinitely. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Inspect state updates, useEffect dependencies, memoization, and component hierarchy. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Design a chatbot platform. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Use message queues, vector search, session storage, analytics, and model serving infrastructure. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Deploy a MERN application. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Host frontend separately, deploy backend services, configure databases, secrets, monitoring, and backups. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Integrate local LLMs. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Use Ollama or llama.cpp, manage context windows, and optimize inference performance. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Add AI chat to an app. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Implement conversation memory, prompt templates, model routing, and streaming responses. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Build an AI project manager. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Create a full-stack application with planning, task tracking, AI suggestions, analytics, and collaboration tools. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Design a scalable SaaS. .",
+    "input": "",
+    "output": "Use microservices, API gateway, PostgreSQL, Redis, monitoring, CI/CD, and container orchestration."
+  },
+  {
+    "instruction": "Create a coding assistant. .",
+    "input": "",
+    "output": "Use Electron, Monaco Editor, local LLM integration, chat memory, and project indexing."
+  },
+  {
+    "instruction": "React app re-renders infinitely. .",
+    "input": "",
+    "output": "Inspect state updates, useEffect dependencies, memoization, and component hierarchy."
+  },
+  {
+    "instruction": "Build an AI project manager. .",
+    "input": "",
+    "output": "Create a full-stack application with planning, task tracking, AI suggestions, analytics, and collaboration tools."
+  },
+  {
+    "instruction": "API returns 500 errors. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Check logs, validate inputs, inspect database connectivity, and improve exception handling. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  },
+  {
+    "instruction": "Design a scalable SaaS. Provide a practical implementation plan.",
+    "input": "",
+    "output": "Use microservices, API gateway, PostgreSQL, Redis, monitoring, CI/CD, and container orchestration. Include milestones, technology choices, risks, testing strategy, and scaling considerations."
+  }
+]
